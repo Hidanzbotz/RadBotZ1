@@ -24,8 +24,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'by Raditya' // ganti aja
-global.author = 'RadBotZ' // ganti aja
+global.packname = 'by Xyura' // ganti aja
+global.author = 'Xyura' // ganti aja
 
 // silakan di ganti klo mau
 global.wait = '_*tunggu..*_'
