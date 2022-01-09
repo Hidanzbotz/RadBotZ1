@@ -1,5 +1,5 @@
 global.linkGC = ['https://chat.whatsapp.com/EVCGfzxLWfp81n0WhmVklH', 'https://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
-global.owner = ['62858929626673', '994409869765', '6285892962667'] // Put your number here
+global.owner = ['6281258758551', '6281258758551', '6281258758551'] // Put your number here
 global.mods = ['6289669349047', '6288261394557'] // Want some help?
 global.prems = ['62858929626673','994401240133','994409869765','6285892962667'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
