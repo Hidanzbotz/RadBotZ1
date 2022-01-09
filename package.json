@@ -1,6 +1,6 @@
 {
   "name": "RadBotZ",
-  "version": "1.5.0",
+  "version": "3.5.3",
   "description": "WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
